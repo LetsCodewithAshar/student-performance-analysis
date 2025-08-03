@@ -66,7 +66,7 @@ The goal is to find meaningful patterns that could help educators, parents, and 
 ```
 ├── student_performance_analysis.ipynb   # Main notebook with all analysis
 ├── README.md                            # This file
-├── /plots                               # (Optional) Folder with saved charts
+                             
 ```
 
 ---
@@ -79,10 +79,9 @@ This project showed how preparation, family background, and gender can play a ro
 
 ## 🙋‍♂️ About Me
 
-**Author**: _Your Name_  
-📫 **Contact**: [your.email@example.com]  
-🌐 **Portfolio**: [Your Portfolio Link] *(optional)*  
-📍 **Location**: India *(optional)*
+**Author**: Ashar  
+📫 **Contact**: mohdasharansari0786@gmail.com 
+📍 **Location**: India
 
 ---
 
